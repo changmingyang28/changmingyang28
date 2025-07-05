@@ -1,6 +1,5 @@
-- Hi, I’m @changmingyang28
-- I'm studying in FAU as a master student in Chair of Automatic Control
-- I’m interested in Robot and MPC algorithm
-- I’m currently doing the research which is related to the benchmarking of different MPC algorithms for Robot
-- please reach me with sddrycm@gmail.com
+- Hi, I’m changming yang
+- I'm studying at FAU as a master's student in the Chair of Automatic Control
+- I’m currently interested in robotics and control algorithms, including MPC and RL.
+- Please reach me with sddrycm@gmail.com
 
